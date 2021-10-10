@@ -4,4 +4,4 @@ Marketing site for Kozmik
 
 ## TODO
 
-Svelte Kit Hello World
+- [ ] Svelte Kit Hello World
